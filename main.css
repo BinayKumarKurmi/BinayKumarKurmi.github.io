@@ -1,16 +1,38 @@
+/* 
+all element
+ */
+*{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+    color: black !important;
+}
+/* 
+body */
 body{
-    background-color:aqua
-    
-    
-    
-    
-    }
-   
-    
-    
-    
-    
-    
-    
-    
+    background-color: aliceblue;
+    color: blue ;
+    height: max-content;
+    width: 100%;
+    text-align: center;
+}
+/* tag
+ */
+h1{
+
+}
+/* 
+class
+ */
+.heading{
+    color: brown;
+}
+/* 
+id
+*/
+#paper-title{
+    color: antiquewhite;
+}
+
     
