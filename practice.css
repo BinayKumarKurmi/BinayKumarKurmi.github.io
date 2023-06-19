@@ -1,0 +1,14 @@
+*{
+
+background-color: bisque;
+color: #0000ff;
+margin: 0.25%;
+font-family:sans-serif;
+box-sizing: border-box;
+padding: 0.25%;
+background-position: center;
+}
+vinay{
+    display: block;
+    color: coral;
+}
