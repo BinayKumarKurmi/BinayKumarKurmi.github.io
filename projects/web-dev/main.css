@@ -1,0 +1,60 @@
+/* 
+all element
+ */
+table,th, td{
+    border: 2px solid red;
+}
+* {
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+    color: rgb(80, 80, 206) !important;
+}
+
+img {
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 50%;
+    border-top: 3px solid blue;
+}
+.context{
+    border: 1px solid red;
+}
+.context:hover{
+    background-color: red;
+    color: #fff !important;
+}
+/* 
+body */
+body {
+    background-color: black;
+    color: blue;
+    height: max-content;
+    width: 100%;
+    text-align: center;
+}
+
+/* tag
+ */
+h1 {}
+
+/* 
+class
+ */
+.heading {
+    color: brown;
+}
+
+/* 
+id
+*/
+#paper-title {
+    color: antiquewhite;
+}
+
+.anything {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
