@@ -29,11 +29,13 @@ img {
 /* 
 body */
 body {
-    background-color: black;
+    background-color: rgb(17, 230, 212);
     color: blue;
     height: max-content;
     width: 100%;
-    text-align: center;
+    background-position: top right;
+   border: 20px solid red;
+   
 }
 
 /* tag
